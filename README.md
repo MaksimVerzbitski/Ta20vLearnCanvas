@@ -29,17 +29,16 @@ Clone the repository:
    npm i vite
 
    npm run dev
+   
+   ```
+Open your web browser and visit (http://localhost:5173/) to play the game.
 
-   Open your web browser and visit http://localhost:5173/ to play the game.
-
-   Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
-License
+
+## License
 
 This project is licensed under the MIT License.
-
-css
-
 
 Feel free to customize the content according to your specific project details and requirements.
