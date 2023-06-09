@@ -31,7 +31,7 @@ Clone the repository:
    npm run dev
    
    ```
-Open your web browser and visit (http://localhost:5173/) to play the game.
+Open your web browser and visit http://localhost:5173/ to play the game.
 
 ## Contributing
 
